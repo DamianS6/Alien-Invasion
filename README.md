@@ -4,7 +4,7 @@ Alien Invasion is my first bigger project which was created with book "Python Cr
 
 ## Usage
 
-To play the game, clone the repository and run alien_invasion.py.
+To play the game, clone the repository, install Pygame if needed and run alien_invasion.py.
 
 ## Technologies:
 <ul>
